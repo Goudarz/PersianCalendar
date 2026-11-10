@@ -1,0 +1,17 @@
+{
+  "name": "persian-calendar-ts",
+  "private": true,
+  "type": "module",
+  "description": "Solar Hijri (Persian, Jalali, Shamsi) calendar in TypeScript: conversions, leap years, validation",
+  "author": "Goudarz Jafari <hi@goudarzjafari.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goudarz/PersianCalendar.git",
+    "directory": "implementations/typescript"
+  },
+  "scripts": {
+    "test": "node --test",
+    "typecheck": "tsc --noEmit --strict --target es2022 --module nodenext --allowImportingTsExtensions persian-calendar.ts"
+  }
+}
