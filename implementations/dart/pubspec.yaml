@@ -1,6 +1,6 @@
 name: persian_calendar
 description: Solar Hijri (Persian, Jalali, Shamsi) calendar conversions and leap years.
-version: 0.1.0
+version: 1.0.0
 repository: https://github.com/Goudarz/PersianCalendar
 publish_to: none
 
