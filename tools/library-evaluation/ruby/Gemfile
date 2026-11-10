@@ -1,0 +1,2 @@
+source 'https://rubygems.org'
+gem 'parsi-date', '0.5.1'

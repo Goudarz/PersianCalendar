@@ -1,0 +1,6 @@
+name: library_evaluation
+publish_to: none
+environment:
+  sdk: ^3.0.0
+dependencies:
+  shamsi_date: 1.1.1

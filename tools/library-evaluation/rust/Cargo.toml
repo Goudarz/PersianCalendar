@@ -1,0 +1,9 @@
+[package]
+name = "library-evaluation"
+version = "0.0.0"
+edition = "2024"
+rust-version = "1.85"
+publish = false
+
+[dependencies]
+icu_calendar = "=2.4.0"

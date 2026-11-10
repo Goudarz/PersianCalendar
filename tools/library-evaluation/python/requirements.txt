@@ -1,0 +1,4 @@
+jdatetime==6.1.0
+persiantools==6.2.0
+convertdate==2.5.1
+khayyam==3.0.17
