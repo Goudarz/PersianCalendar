@@ -1,0 +1,11 @@
+name: icu_cross_check
+description: Compares this repository's Dart implementation with ICU4C (dart:ffi) day by day.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  persian_calendar:
+    path: ../../../implementations/dart

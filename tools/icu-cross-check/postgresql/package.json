@@ -1,0 +1,13 @@
+{
+  "name": "icu-cross-check-postgresql",
+  "private": true,
+  "author": "Goudarz Jafari <hi@goudarzjafari.com>",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "check": "node check.mjs"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.3.0"
+  }
+}
