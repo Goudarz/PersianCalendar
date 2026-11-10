@@ -1,0 +1,16 @@
+{
+  "name": "persian-calendar-js",
+  "private": true,
+  "type": "module",
+  "description": "Solar Hijri (Persian, Jalali, Shamsi) calendar in JavaScript: conversions, leap years, validation",
+  "author": "Goudarz Jafari <hi@goudarzjafari.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goudarz/PersianCalendar.git",
+    "directory": "implementations/javascript"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
